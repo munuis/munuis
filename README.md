@@ -1,119 +1,49 @@
-<!-- ========================================================= -->
-<!-- 💻 Tapas | Professional GitHub Profile README -->
-<!-- ========================================================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=160&section=header&text=Hey+I'm+Tapas!&fontSize=35&fontColor=fff&fontAlignY=35"/>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Tapas</span></h1>
-<h3 align="center">🚀 Full Stack & Backend Developer | Java | Spring Boot | MERN | Cloud & DevOps Enthusiast</h3>
+<h3 align="center">Full Stack | Backend | Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://tapas-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&lines=Backend+Developer;Spring+Boot+%7C+MERN+Stack;AWS+%7C+Docker+%7C+Jenkins;Open+to+Collaborations!"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-I’m a **Backend Developer** with **3.3+ years of experience** building scalable, secure, and high-performance applications.  
-My expertise lies in **Java**, **Spring Boot**, **Microservices**, and **Cloud technologies** like AWS & Docker.  
-I’m passionate about solving complex problems, optimizing performance, and delivering clean, maintainable code.
-
-💡 **Currently working on:** AI-integrated backend systems and scalable microservices.  
-📘 **Exploring:** Cloud-Native Solutions, DevOps pipelines, and AI Agents.  
-🎯 **Goal:** Build efficient systems that empower innovation.  
-📫 **Reach me:** `your-email@example.com`
+### 💼 About Me
+Backend Developer with over 3 years of professional experience delivering high-quality, scalable software.  
+Focused on **Java Spring Boot**, **Microservices**, **Cloud**, and **DevOps** best practices.
 
 ---
 
-### ⚙️ Tech Stack
-
-#### 💻 Languages & Frameworks
+### 🧰 Toolbox
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-</p>
-
-#### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-#### 🗄️ Databases & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,aws,docker,jenkins,git,linux,vscode"/>
 </p>
 
 ---
 
-### 🏆 Certifications
-- 🪶 **AWS Skill Badges** — Cloud Practitioner & Core Services  
-- 🧠 **Databricks AI Agent Fundamentals**  
-- 🤖 **Oracle AI Foundation Associate**  
-- 🎓 **Google Project Management Certificate**  
-- 💻 **IBM Linux & Private Cloud Administration**
+### 🧩 Featured Projects
+- 🚌 **GoBus Booking System** — Microservices | Kafka | AWS | Docker  
+- 💬 **Real-Time Chat App** — WebSocket | MongoDB | Spring Boot  
+- 🤖 **AI Chatbot Backend** — OpenAI | WebSocket | Microservices  
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🚌 GoBus Booking System
-> Designed a microservice-based bus booking backend with **Spring Boot**, **Kafka**, **Docker**, and **AWS EC2**, improving scalability by **35%**.  
-
-#### 💬 Real-Time Chat Application
-> Built a **WebSocket-based chat app** for healthcare consultations using **Spring Boot**, **MongoDB**, and **AWS Lambda** for cloud deployment.  
-
-#### ⚡ AI-Powered Chatbot
-> Developed a chatbot backend using **OpenAI API**, **WebSocket**, and **MongoDB** to handle real-time conversations with persistent chat history.
-
-👉 Explore more on [My Repositories](https://github.com/your-github-username?tab=repositories)
-
----
-
-### 📊 GitHub Analytics
-
+### 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=react&show_icons=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react"/>
 </p>
 
 ---
 
-### 🤝 Connect with Me
-
+### 🌐 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
-<p align="center">
-  <b>“Code. Learn. Build. Repeat.”</b> ⚡  
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer"/>
