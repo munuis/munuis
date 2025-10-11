@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff7300,50:fffb00,75:48ff00,100:00ffd5&height=160&section=header&text=Hey+I'm+Vijay!&fontSize=35&fontColor=fff&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff7300,50:fffb00,75:48ff00,100:00ffd5&height=160&section=header&text=👾+Hey+I'm+Vijay!&fontSize=35&fontColor=fff&fontAlignY=35"/>
 
 
 
