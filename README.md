@@ -53,4 +53,13 @@ Focused on **Java Spring Boot**, **Microservices**, **Cloud**, and **DevOps** be
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Keep+coding+and+creating!">
+</p>
+
+<p align="center">✨ “Code is like humor. When you have to explain it, it’s bad.” ✨</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff7300,50:fffb00,75:48ff00,100:00ffd5&height=100&section=footer"/>
+
+
+
+
